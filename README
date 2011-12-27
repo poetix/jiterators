@@ -1,0 +1,3 @@
+Lazy map, filter, reduce, each etc. for Javascript. Loosely based on the goodness in Guava's Iterators utility class.
+
+See spec/iterators_test.js for examples of how to use it.
